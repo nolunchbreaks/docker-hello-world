@@ -22,7 +22,6 @@ This guide provides step-by-step instructions to install Docker on an AWS Ubuntu
 
 # Run the following commands to update your package list and upgrade existing packages:
 
-- sh
 - sudo apt update
 - sudo apt upgrade -y
 - sudo apt install docker.io

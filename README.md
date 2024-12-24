@@ -1,4 +1,4 @@
-# docker-hello-world
+# Docker-hello-world
 Docker on an AWS Ubuntu instance and run a simple Hello World application:
 
 

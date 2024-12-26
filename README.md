@@ -4,8 +4,7 @@ Docker on an AWS Ubuntu instance and run a simple Hello World application:
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/nolunchbreaks)
 
 
-![Architecture](assets/Infra.gif)
-![Infra](https://github.com/user-attachments/assets/a31549c9-b299-40d6-83c2-84f9b8558924)
+
 
 
 # Docker on AWS Ubuntu Instance
